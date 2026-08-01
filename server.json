@@ -6,7 +6,7 @@
     "url": "https://github.com/Samqra/auto-reader-ocr",
     "source": "github"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "remotes": [
     {
       "type": "streamable-http",
