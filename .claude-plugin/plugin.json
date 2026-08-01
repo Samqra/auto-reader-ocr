@@ -1,0 +1,16 @@
+{
+  "name": "auto-reader-ocr",
+  "version": "1.0.0",
+  "description": "Arabic-first OCR, translation & document extraction (MCP). Read images/PDFs incl. Arabic, manga-Japanese; translate 100+ languages; extract invoice/receipt/ID fields; RAG-ready markdown & chunks. No signup needed — a free trial key auto-provisions on first call.",
+  "author": { "name": "Auto-Reader OCR", "url": "https://ocr.auto-reader.com" },
+  "homepage": "https://ocr.auto-reader.com",
+  "repository": "https://github.com/Samqra/auto-reader-ocr",
+  "license": "MIT",
+  "keywords": ["ocr", "arabic", "translation", "pdf", "invoice", "extraction", "manga", "rag", "markdown"],
+  "mcpServers": {
+    "auto-reader-ocr": {
+      "type": "http",
+      "url": "https://api.auto-reader.com/mcp"
+    }
+  }
+}
