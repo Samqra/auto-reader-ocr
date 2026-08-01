@@ -1,11 +1,15 @@
 {
   "name": "auto-reader-ocr",
-  "owner": { "name": "Auto-Reader OCR", "url": "https://ocr.auto-reader.com" },
+  "owner": {
+    "name": "Auto-Reader OCR",
+    "url": "https://ocr.auto-reader.com"
+  },
   "plugins": [
     {
       "name": "auto-reader-ocr",
       "source": "./",
       "description": "Arabic-first OCR, translation and document extraction as MCP tools - keyless, a free trial key auto-provisions on first call."
     }
-  ]
+  ],
+  "description": "Arabic-first OCR, translation and document extraction for agents: OCR images/PDFs (Arabic, manga-Japanese, 13+ languages), extract invoice/receipt/ID fields with ZATCA validation, RAG-ready markdown and chunks. Keyless: first call mints a free trial key."
 }
